@@ -8,6 +8,7 @@ function App() {
         <p>View and manage student details</p>
       </header>
 
+
       <main className="dashboard-main">
         <div className="cards-container">
             <h1>Student Info</h1>
